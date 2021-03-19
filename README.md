@@ -1,4 +1,3 @@
-
 Data-Driven Research on Indian Economy using data collected from the World Bank
 
 Data from 1961-2019
@@ -12,3 +11,7 @@ Data from 1961-2019
 
 7. All data in all_data.csv
 8. diminishing returns example in diminish.csv and code for this generation in diminish.pynb
+
+Ref for ppt:
+1. RESET: Regaining India's Economic Legacy, Subramanian Swamy
+2. Capitalism and Freedom: Milton Friedman
